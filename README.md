@@ -39,5 +39,3 @@ O projeto tem como responsabilidade gerar um certificado para um usuário e a po
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat 👋🏻
